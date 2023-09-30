@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "4c2b85d843c72ec9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7de6b656e3da7b1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f10e92765a12323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanitarian subjects/Основы российской госсударственности.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f0c40deb3f72bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Линейная Алгебра/TEST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32faa2ec3ec10602",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "decb20a50c6240aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Мат. Анализ/Семинары/Конечные суммы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18a5595d755d9a50",
+    "type": "split",
+    "children": [
+      {
+        "id": "9841e246c2cb1b4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87bc14cbedfdf3d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fe85cd957c1bd8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ffeeb929845bbe1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68d9ef2a3dcab0e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca2a8aa1135fb581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0267506e383173a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e8c66f6a56a91a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "164dd179bb2f75e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68a70f0d76c5ed9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "32faa2ec3ec10602",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Math/Мат. Анализ/Лекции/Матрицы.md",
+    "Humanitarian subjects/История России.md",
+    "Math/Линейная Алгебра/TEST.md",
+    "Math/Мат. Анализ/Семинары/Конечные суммы.md",
+    "Math/Линейная Алгебра",
+    "Math/Мат. Анализ/Семинары/Конечные суммы 1 1.md",
+    "Math/Мат. Анализ/Семинары/Конечные суммы 1.md",
+    "Math/Мат. Анализ.md",
+    "Math/Мат. Анализ",
+    "Math/Мат. Анализ/Семинары",
+    "Math/Мат. Анализ/Лекции",
+    "Humanitarian subjects/Основы российской госсударственности.md",
+    "Excalidraw",
+    "go.teachbase.ru.md",
+    "Templates/Default.md",
+    "Templates/Algo.md",
+    "Templates",
+    "Humanitarian subjects",
+    "Math"
+  ]
+}
