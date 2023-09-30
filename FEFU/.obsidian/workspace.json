@@ -35,8 +35,24 @@
             "id": "32faa2ec3ec10602",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Math/Мат. Анализ/Лекции/Матрицы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "653eb345c4e92a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Мат. Анализ/Лекции/Определители.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -52,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math/Мат. Анализ/Лекции/Определители.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math/Мат. Анализ/Лекции/Определители.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Math/Мат. Анализ/Лекции/Определители.md"
+              }
             }
           }
         ]
@@ -172,17 +192,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "32faa2ec3ec10602",
+  "active": "653eb345c4e92a54",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Img/Pasted image 20230930212122.png",
+    "Img/Pasted image 20230930195918.png",
+    "Img",
+    "Math/Мат. Анализ/Лекции/Определители.md",
     "Math/Мат. Анализ/Лекции/Матрицы.md",
+    "Math/Мат. Анализ/Семинары/Конечные суммы.md",
+    "Untitled.canvas",
     "Humanitarian subjects/История России.md",
     "Math/Линейная Алгебра/TEST.md",
-    "Math/Мат. Анализ/Семинары/Конечные суммы.md",
     "Math/Линейная Алгебра",
     "Math/Мат. Анализ/Семинары/Конечные суммы 1 1.md",
     "Math/Мат. Анализ/Семинары/Конечные суммы 1.md",
