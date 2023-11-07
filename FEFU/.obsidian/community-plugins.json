@@ -1,4 +1,7 @@
 [
   "quick-latex",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-tasks-plugin",
+  "obsidian-relative-line-numbers",
+  "obsidian-tikzjax"
 ]

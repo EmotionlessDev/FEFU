@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Night Owl",
-  "baseFontSize": 19
+  "baseFontSize": 30,
+  "enabledCssSnippets": [
+    "custom"
+  ]
 }

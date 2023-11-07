@@ -1,1 +1,8 @@
-{}
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Base/Notes",
+  "attachmentFolderPath": "Img"
+}

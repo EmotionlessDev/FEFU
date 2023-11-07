@@ -4,55 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "7de6b656e3da7b1f",
+        "id": "4ca19786894ed822",
         "type": "tabs",
         "children": [
           {
-            "id": "bbf2a7ae464a3358",
+            "id": "00c6f0651aef944a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Теория множеств/Элементы теории множеств.md",
+                "file": "Base/Math/Мат. Анализ/Теория/Пределы.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "f8e77123d281badd",
+            "id": "a79a0a785dfb01c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Линейная Алгебра/Семинары/Метод Гаусса.md",
+                "file": "Base/Math/Линейная Алгебра/Теория/Матрицы.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "29c1973e6fe49e9c",
+            "id": "574da03e11bbe5ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Линейная Алгебра/Семинары/Конечные суммы.md",
+                "file": "Base/Math/Линейная Алгебра/Теория/Матрицы.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9cff98f640488b1f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +76,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -110,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 411.5,
+    "collapsed": true
   },
   "right": {
     "id": "68d9ef2a3dcab0e5",
@@ -126,8 +121,9 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Math/Мат. Анализ/Теория/Пределы.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -142,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Math/Мат. Анализ/Теория/Пределы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Math/Мат. Анализ/Теория/Пределы.md"
+              }
             }
           }
         ]
@@ -184,52 +183,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cff98f640488b1f",
+  "active": "00c6f0651aef944a",
   "lastOpenFiles": [
-    "Humanitarian subjects/Основы российской госсударственности.md",
-    "Templates/Algo.md",
-    "Humanitarian subjects/Ecomics/ju.md",
-    "Math/Линейная Алгебра/Семинары/Метод Гаусса.md",
-    "Math/Линейная Алгебра/Семинары/Конечные суммы.md",
-    "Templates/Default.md",
-    "Math/Теория множеств/Элементы теории множеств.md",
-    "Math/Линейная Алгебра/Лекции/Матрицы.md",
-    "Math/Линейная Алгебра/Лекции/Определители.md",
-    "Humanitarian subjects/History/История и ее место в системе наук.md",
-    "Humanitarian subjects/History/История России.md",
-    "Humanitarian subjects/History/Особенности возникновения древнерусского гос-ва.md",
-    "Img/Pasted image 20231008204134.png",
-    "Math/Теория множеств/ДЗ-ЗОРИЧ-1.md",
-    "Math/Теория множеств/Untitled.canvas",
+    "Base/Notes/Obsidian.md",
+    "Base/Math/Мат. Анализ/Теория/Пределы.md",
     "Untitled.canvas",
-    "Img/Pasted image 20231008170603.png",
-    "Humanitarian subjects/History/Ремесло историка.md",
-    "Humanitarian subjects/History/Untitled",
-    "Humanitarian subjects/Ecomics/Untitled.md",
-    "Math/Линейная Алгебра/Семинары/Метод Крамера.md",
-    "Humanitarian subjects/Ecomics",
-    "Img/Pasted image 20231002191427.png",
-    "Img/Pasted image 20231002191140.png",
-    "Img/Pasted image 20231002190923.png",
-    "Img/Pasted image 20231002190702.png",
-    "Img/Pasted image 20231002190256.png",
-    "Math/Теория множеств",
-    "Math/Мат. Анализ/Лекции/Untitled",
-    "Math/Линейная Алгебра/TEst3.md",
-    "Math/Линейная Алгебра/TEST.md",
-    "Math/Линейная Алгебра/Семинары",
-    "Math/Линейная Алгебра/Лекции",
-    "Math/Линейная Алгебра/Drawing 2023-10-02 08.21.38.excalidraw.md",
-    "Humanitarian subjects/History",
-    "Math/Линейная Алгебра/TEst 2.md",
-    "Img/Pasted image 20230930212122.png",
-    "Img/Pasted image 20230930195918.png",
-    "Img",
-    "Math/Линейная Алгебра",
-    "Math/Мат. Анализ/Семинары/Конечные суммы 1 1.md",
-    "Math/Мат. Анализ/Семинары/Конечные суммы 1.md",
-    "Math/Мат. Анализ.md",
-    "Math/Мат. Анализ",
-    "go.teachbase.ru.md"
+    "Base/Math/Линейная Алгебра/Коллок/Коллоквиум №1.md",
+    "Base/Math/Линейная Алгебра/Теория/Определители.md",
+    "Base/Math/Линейная Алгебра/Теория/Матрицы.md",
+    "Base/Notes/00 Матрицы.md",
+    "Base/Notes/00 Math.md",
+    "Base/Notes/00 Productivity.md",
+    "Base/Notes/00 Zettelkasten.md",
+    "Base/Math/Мат. Анализ/Теория/Конечные суммы.md",
+    "Base/Math/Линейная Алгебра/Теория/Метод Гаусса.md",
+    "Base/Notes/[[00 Матрицы.md",
+    "Daily/2023-11-07.md",
+    "Base/Math/Теория множеств/Элементы теории множеств.md",
+    "Templates/Default.md",
+    "Base/Humanitarian subjects/Russian/Виды вербальных и не вербальных отношений.md",
+    "Base/Humanitarian subjects/History/Средневековье как исторический период.md",
+    "Base/Humanitarian subjects/History/Ремесло историка.md",
+    "Base/Humanitarian subjects/History/Особенности возникновения древнерусского гос-ва.md",
+    "Base/Humanitarian subjects/History/История России.md",
+    "Base/Humanitarian subjects/History/История и ее место в системе наук.md",
+    "Base/Humanitarian subjects/English/Untitled 1.md",
+    "Base/Humanitarian subjects/English/There is (are) There was (were).md",
+    "Base/Humanitarian subjects/Основы российской госсударственности/Контакты.md",
+    "Base/Humanitarian subjects/Ecomics/Untitled.md",
+    "Base/Notes",
+    "Base/Algo",
+    "Base/Math/Мат. Анализ/Теория",
+    "Base/Math/Линейная Алгебра/Теория",
+    "Files",
+    "Base",
+    "Daily",
+    "Base/Math/Линейная Алгебра/Коллок",
+    "Base/Humanitarian subjects/Основы российской госсударственности",
+    "Base/Humanitarian subjects/Russian",
+    "Img/9.png",
+    "Math/Теория множеств/Untitled.canvas",
+    "Img/8.png",
+    "Img/7.png",
+    "Img/6.png",
+    "Img/5.png",
+    "Img/4.png",
+    "Img/3.png",
+    "Img/2.png",
+    "Img/1.png"
   ]
 }

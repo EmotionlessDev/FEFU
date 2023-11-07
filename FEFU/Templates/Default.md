@@ -1,9 +1,11 @@
 {{date:YYYY:MM:DD}} {{time:HH:mm}}
 Tags:
-Links:
 __
-##
+# Заголовок
+Общая инфа
+## Подзаголовок
+Далее...
+### Zero-links
 
-__
 ### Links
 -
