@@ -32,6 +32,7 @@ __
 - #phrase - Фразы
 - #songs - Песни
 - #work - Работа
+- #Colloquium - Вопросы к коллоквиуму
 ## Теги предметов (Туре Subjects)
 -  #History
 -  #Calculus
