@@ -3,10 +3,10 @@ Tags: #English #lesson
 Links:
 __
 ##
-- this
-- these
-- that
-- those
+- this этот
+- these эти
+- that тот
+- those те
 It is winter. (is winter - сост. сказ.)
 There is (are) / was (were) 
 Употребляется для обозначения *наличия или отсутствия* предметов или людей. (Нет действия)
@@ -17,3 +17,6 @@ There is (are) / was (were)
  - На столе немного сахара - There is some sugar on the table;
  *Some* - в утв.
  *Any* - в отриц., вопрос.
+ whose - чей
+ whose glasses are they?
+ whose watch is it?

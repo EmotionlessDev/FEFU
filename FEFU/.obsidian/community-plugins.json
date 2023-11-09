@@ -3,5 +3,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-tasks-plugin",
   "obsidian-relative-line-numbers",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "obsidian-vimrc-support"
 ]
