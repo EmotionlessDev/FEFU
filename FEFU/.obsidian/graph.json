@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#Colloquium",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10.53955078125,
   "linkStrength": 0.427815755208333,
   "linkDistance": 85,
-  "scale": 0.47797098849903,
+  "scale": 0.33575316334156136,
   "close": false
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Math/Мат. Анализ/Теория/Функции непрерывные на отрезке (6).md",
+                "file": "Base/Math/Теория множеств/Элементы теории множеств.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,6 +26,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Base/Math/Мат. Анализ/Коллок/Коллок №1/Свойства биективных функций.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cf15478523c01b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Math/Мат. Анализ/Теория/Сравнение бесконечно малых функций (5).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bf4c8101548128e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Base/Math/Мат. Анализ/Теория/Сравнение бесконечно малых функций (5).md",
                 "mode": "source",
                 "backlinks": true,
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 464.5
   },
   "right": {
     "id": "68d9ef2a3dcab0e5",
@@ -170,36 +196,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d35e5d8c9eb927bb",
+  "active": "1bf4c8101548128e",
   "lastOpenFiles": [
     "Base/Math/Мат. Анализ/Теория/Функции непрерывные на отрезке (6).md",
     "Base/Math/Мат. Анализ/Теория/Сравнение бесконечно малых функций (5).md",
-    "Base/Math/Мат. Анализ/Теория/Рациональные числа.md",
-    "Base/Math/Мат. Анализ/Коллок/Коллок №1.md",
-    "Base/Math/Мат. Анализ/Теория/Свойства модуля.md",
-    "Base/Math/Теория множеств/Элементы теории множеств.md",
-    "Base/Math/Мат. Анализ/Теория/Действительный (вещественные) числа.md",
-    "Base/Math/Линейная Алгебра/Коллок/Коллоквиум №1/Определения/Перестановки и подстановки (4-5).md",
-    "Base/Math/Мат. Анализ/Теория/Замечательные пределы (4).md",
-    "Base/Math/Мат. Анализ/Теория/Односторонние пределы, непрерывность функции (3).md",
-    "Base/Math/Мат. Анализ/Теория/Предел функции.md",
-    "Base/Humanitarian subjects/English/23 november.md",
-    "Base/Humanitarian subjects/English/Present simple.md",
-    "Base/Humanitarian subjects/English/There is (are) There was (were).md",
-    "Base/Math/Мат. Анализ/Теория/Пределы последовательности.md",
     "Base/Math/Мат. Анализ/Теория/Свойства предела функции (2).md",
-    "Base/Humanitarian subjects/History/Untitled.md",
-    "Base/Math/Линейная Алгебра/Теория/dasd.md",
-    "Base/Math/Мат. Анализ/Теория/Перделы.md",
+    "Base/Math/Мат. Анализ/Теория/Равномерная непрерывная функция (7).md",
+    "Base/Math/Мат. Анализ/Теория/Односторонние пределы, непрерывность функции (3).md",
+    "Base/Humanitarian subjects/English/Untitled.md",
+    "Base/Math/Мат. Анализ/Теория/Производные/Производная и дифференциал (1).md",
+    "Base/Math/Мат. Анализ/Теория/Производные",
+    "Base/Math/Мат. Анализ/Коллок/Коллок №1.md",
+    "Base/Math/Теория множеств/Элементы теории множеств.md",
+    "Base/Math/Мат. Анализ/Коллок/Коллок №1/Свойства биективных функций.md",
+    "Base/Math/Мат. Анализ/Коллок/Коллок №1/Свойства модуля.md",
+    "Base/Math/Мат. Анализ/Теория/Действительный (вещественные) числа.md",
+    "Base/Math/Мат. Анализ/Теория/Предел функции.md",
+    "Base/Math/Мат. Анализ/Теория/Пределы последовательности.md",
+    "Base/Math/Мат. Анализ/Коллок/Коллок №1/Рациональные числа.md",
+    "Base/Math/Мат. Анализ/Коллок/Коллок №1/Композиция бинарных отношений.md",
+    "Base/Humanitarian subjects/English/30 november.md",
+    "Base/Humanitarian subjects/English/Present simple.md",
+    "Base/Humanitarian subjects/English/23 november.md",
+    "Base/Humanitarian subjects/English/Untitled 1.md",
+    "Base/Humanitarian subjects/English/There is (are) There was (were).md",
+    "Base/Math/Мат. Анализ/Коллок/Коллок №1/Инверсия.md",
+    "Base/Math/Мат. Анализ/Коллок/Коллок №1/Отношение порядка.md",
+    "Base/Math/Мат. Анализ/Коллок/Коллок №1/Отношение эквивалентности.md",
+    "Base/Math/Мат. Анализ/Коллок/Коллок №1/Класс эквивалентности.md",
+    "Base/Math/Линейная Алгебра/Коллок/Коллоквиум №1/Определения/Перестановки и подстановки (4-5).md",
     "Base/Math/Мат. Анализ/Коллок/Коллок №1",
     "Base/Math/Мат. Анализ/Коллок",
-    "Daily/2023-11-07.md",
-    "Base/PHP/Оператор объединения с null в PHP.md",
-    "Base/PHP/Команда empty в PHP (8).md",
-    "Base/PHP/Команда isset в PHP (7).md",
-    "Base/PHP/Равенство по значению и типу в PHP.md",
-    "Base/PHP/Заполнение массива (6).md",
-    "Base/PHP/Ассоциативные массивы (5).md",
     "Base/SQL",
     "Base/PHP",
     "Img/Pasted image 20231114181855.png",
@@ -213,7 +240,6 @@
     "Base/Math/Линейная Алгебра/Коллок/Коллоквиум №1",
     "Untitled.canvas",
     "Base/Notes",
-    "Base/Algo",
     "Img/9.png",
     "Math/Теория множеств/Untitled.canvas",
     "Img/8.png",
