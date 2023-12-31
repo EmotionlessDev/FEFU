@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Math/Мат. Анализ/Теория/Производные/Производные и дифференциалы высших порядков (3).md",
+                "file": "Base/OpenGL/Первый треугольник (4).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Math/Мат. Анализ/Теория/Производные/Производные и дифференциалы высших порядков (3).md",
+                "file": "Base/OpenGL/Первый треугольник (4).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Math/Мат. Анализ/Теория/Производные/Производные и дифференциалы высших порядков (3).md",
+                "file": "Base/OpenGL/Первый треугольник (4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Math/Мат. Анализ/Теория/Производные/Производные и дифференциалы высших порядков (3).md"
+                "file": "Base/OpenGL/Первый треугольник (4).md"
               }
             }
           }
@@ -198,18 +198,25 @@
   },
   "active": "1bf4c8101548128e",
   "lastOpenFiles": [
-    "Base/Math/Мат. Анализ/Теория/Производные/Untitled.md",
+    "Base/Math/Мат. Анализ/Теория/Равномерная непрерывная функция (7).md",
+    "Base/OpenGL/Первый треугольник (4).md",
+    "Base/OpenGL",
+    "Base/Math/Мат. Анализ/Коллок/Коллок №2.md",
+    "Base/Math/Мат. Анализ/Коллок/Коллок №1.md",
+    "Base/Math/Мат. Анализ/Теория/Перделы.md",
+    "Base/Humanitarian subjects/English/Untitled 2.md",
+    "Base/Humanitarian subjects/English/Untitled.md",
+    "Base/Humanitarian subjects/English/Untitled 1.md",
+    "Base/Math/Мат. Анализ/Теория/Производные/Теоремы о дифференцируемости функции (4).md",
     "Base/Math/Мат. Анализ/Теория/Производные/Производные и дифференциалы высших порядков (3).md",
+    "Base/Math/Мат. Анализ/Теория/Производные/Untitled.md",
+    "Base/Math/Мат. Анализ/Теория/Производные/Производная и дифференциал (1).md",
     "Base/Math/Линейная Алгебра/Теория/Метод Гаусса.md",
     "Base/Math/Мат. Анализ/Теория/Сравнение бесконечно малых функций (5).md",
     "Base/Math/Мат. Анализ/Теория/Функции непрерывные на отрезке (6).md",
     "Base/Math/Мат. Анализ/Теория/Свойства предела функции (2).md",
-    "Base/Math/Мат. Анализ/Теория/Равномерная непрерывная функция (7).md",
     "Base/Math/Мат. Анализ/Теория/Односторонние пределы, непрерывность функции (3).md",
-    "Base/Humanitarian subjects/English/Untitled.md",
-    "Base/Math/Мат. Анализ/Теория/Производные/Производная и дифференциал (1).md",
     "Base/Math/Мат. Анализ/Теория/Производные",
-    "Base/Math/Мат. Анализ/Коллок/Коллок №1.md",
     "Base/Math/Теория множеств/Элементы теории множеств.md",
     "Base/Math/Мат. Анализ/Коллок/Коллок №1/Свойства биективных функций.md",
     "Base/Math/Мат. Анализ/Коллок/Коллок №1/Свойства модуля.md",
@@ -219,12 +226,6 @@
     "Base/Math/Мат. Анализ/Коллок/Коллок №1/Рациональные числа.md",
     "Base/Math/Мат. Анализ/Коллок/Коллок №1/Композиция бинарных отношений.md",
     "Base/Humanitarian subjects/English/30 november.md",
-    "Base/Humanitarian subjects/English/Present simple.md",
-    "Base/Humanitarian subjects/English/23 november.md",
-    "Base/Humanitarian subjects/English/Untitled 1.md",
-    "Base/Humanitarian subjects/English/There is (are) There was (were).md",
-    "Base/Math/Мат. Анализ/Коллок/Коллок №1/Инверсия.md",
-    "Base/Math/Мат. Анализ/Коллок/Коллок №1/Отношение порядка.md",
     "Base/Math/Мат. Анализ/Коллок/Коллок №1",
     "Base/Math/Мат. Анализ/Коллок",
     "Base/SQL",
@@ -239,7 +240,6 @@
     "Base/Math/Линейная Алгебра/Коллок/Коллоквиум №1/Определения",
     "Base/Math/Линейная Алгебра/Коллок/Коллоквиум №1",
     "Untitled.canvas",
-    "Base/Notes",
     "Img/9.png",
     "Math/Теория множеств/Untitled.canvas",
     "Img/8.png",

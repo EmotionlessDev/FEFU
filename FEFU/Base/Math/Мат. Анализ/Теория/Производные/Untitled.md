@@ -17,7 +17,7 @@ $y=th(x); \quad y'=(th(x))'= (\frac{ch(x)}{sh(x)})'=(\frac{e^x-e^{-x}}{e^{x}+e^{
 $y=cth(x); \quad y'=(cth(x))'= (\frac{sh(x)}{ch(x)})'=(\frac{e^x+e^{-x}}{e^{x}-e^{-x}})'=\frac{-1}{sh^2}$
 *Производная степенной функции*:
 $y = x^{\alpha}, \ x > 0, \alpha$ - произвольное
-$y=e^{ln(x^{\alpha})})=e^{\alpha ln(x)} = e^{u,} \ u = \alpha ln(x)$
+$y=e^{ln(x^{\alpha})}=e^{\alpha ln(x)} = e^{u,} \ u = \alpha ln(x)$
 $y'=(x^{\alpha})'=(e^{u})'= e^{u}(\alpha ln(x))'=e^{u}*\alpha*\frac{1}{x}=e^{\alpha ln(x)}\alpha*\frac{1}{x}=x^{\alpha}*\alpha*\frac{1}{x}=\alpha*x^{\alpha-1}$
 $(x^{\alpha})'=\alpha x^{\alpha-1}$
 *Производная сложной степенной (показательной) функции*:
@@ -44,6 +44,7 @@ $u=u(x); \upsilon=\upsilon(x); \quad c=const$
 1) $d(u + \upsilon)=du+d\upsilon$
 2) $d(u\upsilon)=du*\upsilon+udv$
 3) $d(\frac{u}{\upsilon})=\frac{du\upsilon-udv}{\upsilon^2}$
+4) 
 ### Zero-links
 
 ### Links
